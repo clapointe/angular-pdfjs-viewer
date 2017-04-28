@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "angular": "^1.5.8",
-    "pdf.js-viewer": "pdf.js-viewer-cl#^1.6.211"
+    "pdf.js-viewer": "pdf.js-viewer-cl#^1.6.212"
   },
   "ignore": [
     "**/.*",
